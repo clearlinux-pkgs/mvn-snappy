@@ -4,7 +4,7 @@
 #
 Name     : mvn-snappy
 Version  : 0.4
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar
 Source0  : https://repo1.maven.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar
 Source1  : https://repo1.maven.org/maven2/org/iq80/snappy/snappy/0.2/snappy-0.2.jar
